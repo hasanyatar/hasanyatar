@@ -5,7 +5,6 @@ Also I like to do design with flutter. I prepare my products for final products
 
 Skills: FLUTTER / DART / REACT / HTML / JSON / 
 
-- 🔭 I’m currently working on MPowerData 
 - 🌱 I’m currently learning flutter and Node.js 
 
 Connect with me:
