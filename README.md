@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38C2FFFF&center=true&vCenter=true&width=435&lines=Hey!+Nice+to+see+you+👋">
   </a>
 </h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-yatar-458613176/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-white?logo=Medium&logoColor=black)](https://medium.com/@hsnytr99)
 
