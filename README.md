@@ -57,20 +57,20 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats">
-      <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com?user=hasanyatar&theme=onedark&hide_border=true&border_radius=8&background=21232A&fire=61DAFB&currStreakNum=61DAFB&dates=FBFBFB&stroke=FBFBFB&currStreakLabel=61DAFB&sideNums=61DAFB&sideLabels=61DAFB&ring=61DAFB" alt="GitHub Streak" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=hasanyatar&theme=onedark&hide_border=true&border_radius=8&background=21232A&fire=61DAFB&currStreakNum=61DAFB&dates=FBFBFB&stroke=FBFBFB&currStreakLabel=61DAFB&sideNums=61DAFB&sideLabels=61DAFB&ring=61DAFB" alt="GitHub Streak" />
     </a>
     <a href="https://git.io/streak-stats">
-      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=hasanyatar&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hasanyatar&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
     </a>
 
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyatar&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyatar&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-  <br>
+<br><br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanyatar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
