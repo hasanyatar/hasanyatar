@@ -47,8 +47,10 @@
 </ul>
 <h3>My Latest Medium Articles</h3>
 <ul>
+  <li><a href="https://medium.com/etiya/reactive-form-stands-as-a-preferred-solution-in-modern-application-development-processes-44ce76c6e6c3"><b>Reactive Forms & Builder Pattern</b></a><br/><i>I wrote a Medium article explaining the builder pattern using reactive forms as an example.</i></li>
   <li><a href="https://medium.com/etiya/in-todays-rapidly-advancing-digital-age-communicating-with-people-from-all-corners-of-the-world-e465d805f4b3"><b>Localizely Integration</b></a><br/><i>I wrote a comprehensive article on localizely integration</i></li>
   <li><a href="https://medium.com/@hsnytr99/face-recognition-detection-with-flutter-part-1-fa83cdfa0197"><b>Face Recognition & Detection with Flutter</b></a><br/><i>An explanatory and practical article about facial recognition and identification with flutter</i></li>
+ 
 </ul>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
