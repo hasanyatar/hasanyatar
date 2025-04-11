@@ -11,7 +11,7 @@
 <br><br>
 🎓 I graduated from Konya Technical University
 <br><br>
-💼 I am currently working on the TOGG-Trumore project at Etiya company.
+💼 I am currently working on the Neohub company.
 <br><br>
 💻 I use flutter and swift for mobile development
 <br><br>
